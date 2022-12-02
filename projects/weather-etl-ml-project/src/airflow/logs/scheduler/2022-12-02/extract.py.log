@@ -1134,3 +1134,325 @@ ImportError: cannot import name 'BashOperator' from 'airflow.operators' (/home/a
 [2022-12-02T18:36:34.208+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:36:34.208+0000] {dag.py:2585} INFO - Sync 1 DAGs
 [2022-12-02T18:36:34.222+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:36:34.222+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:36:34.134152+00:00, run_after=2022-12-03T18:36:34.134152+00:00
 [2022-12-02T18:36:34.232+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.115 seconds
+[2022-12-02T18:37:04.560+0000] {processor.py:154} INFO - Started process (PID=944) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:37:04.568+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:37:04.585+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:04.585+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:37:04.620+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:37:04.689+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:04.688+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:37:04.704+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:04.704+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:37:04.605789+00:00, run_after=2022-12-03T18:37:04.605789+00:00
+[2022-12-02T18:37:04.716+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.169 seconds
+[2022-12-02T18:37:34.995+0000] {processor.py:154} INFO - Started process (PID=962) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:37:34.997+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:37:34.999+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:34.999+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:37:35.028+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:37:35.083+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:35.083+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:37:35.096+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:37:35.096+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:37:35.010044+00:00, run_after=2022-12-03T18:37:35.010044+00:00
+[2022-12-02T18:37:35.106+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.116 seconds
+[2022-12-02T18:38:05.298+0000] {processor.py:154} INFO - Started process (PID=991) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:38:05.299+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:38:05.300+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:05.300+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:38:05.319+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:38:05.384+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:05.383+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:38:05.396+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:05.396+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:38:05.309324+00:00, run_after=2022-12-03T18:38:05.309324+00:00
+[2022-12-02T18:38:05.407+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.112 seconds
+[2022-12-02T18:38:35.565+0000] {processor.py:154} INFO - Started process (PID=1019) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:38:35.568+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:38:35.569+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:35.569+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:38:35.592+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:38:35.664+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:35.664+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:38:35.679+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:38:35.679+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:38:35.578799+00:00, run_after=2022-12-03T18:38:35.578799+00:00
+[2022-12-02T18:38:35.692+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.131 seconds
+[2022-12-02T18:39:05.851+0000] {processor.py:154} INFO - Started process (PID=1047) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:39:05.859+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:39:05.863+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:05.863+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:39:05.883+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:39:05.932+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:05.932+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:39:05.945+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:05.945+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:39:05.872968+00:00, run_after=2022-12-03T18:39:05.872968+00:00
+[2022-12-02T18:39:05.956+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.109 seconds
+[2022-12-02T18:39:36.119+0000] {processor.py:154} INFO - Started process (PID=1076) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:39:36.121+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:39:36.122+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:36.122+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:39:36.142+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:39:36.192+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:36.192+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:39:36.206+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:39:36.206+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:39:36.131707+00:00, run_after=2022-12-03T18:39:36.131707+00:00
+[2022-12-02T18:39:36.217+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.102 seconds
+[2022-12-02T18:40:06.503+0000] {processor.py:154} INFO - Started process (PID=1095) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:40:06.506+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:40:06.507+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:06.507+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:06.527+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:06.596+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:06.596+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:40:06.610+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:06.610+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:40:06.516743+00:00, run_after=2022-12-03T18:40:06.516743+00:00
+[2022-12-02T18:40:06.620+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.120 seconds
+[2022-12-02T18:40:10.543+0000] {processor.py:154} INFO - Started process (PID=1105) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:40:10.545+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:40:10.546+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:10.546+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:10.570+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:10.585+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:10.585+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:40:10.598+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:10.598+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:40:10.563854+00:00, run_after=2022-12-03T18:40:10.563854+00:00
+[2022-12-02T18:40:10.610+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.069 seconds
+[2022-12-02T18:40:40.814+0000] {processor.py:154} INFO - Started process (PID=1133) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:40:40.816+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:40:40.817+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:40.817+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:40.869+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:40:40.982+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:40.982+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:40:41.002+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:40:41.002+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:40:40.830857+00:00, run_after=2022-12-03T18:40:40.830857+00:00
+[2022-12-02T18:40:41.020+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.210 seconds
+[2022-12-02T18:41:11.133+0000] {processor.py:154} INFO - Started process (PID=1152) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:41:11.135+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:41:11.137+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:11.137+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:41:11.158+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:41:11.216+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:11.216+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:41:11.228+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:11.228+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:41:11.148053+00:00, run_after=2022-12-03T18:41:11.148053+00:00
+[2022-12-02T18:41:11.238+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.110 seconds
+[2022-12-02T18:41:41.463+0000] {processor.py:154} INFO - Started process (PID=1180) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:41:41.466+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:41:41.467+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:41.467+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:41:41.486+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:41:41.543+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:41.542+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:41:41.561+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:41:41.561+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:41:41.475900+00:00, run_after=2022-12-03T18:41:41.475900+00:00
+[2022-12-02T18:41:41.572+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.115 seconds
+[2022-12-02T18:42:11.754+0000] {processor.py:154} INFO - Started process (PID=1208) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:42:11.756+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:42:11.758+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:11.757+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:42:11.782+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:42:11.840+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:11.840+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:42:11.852+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:11.852+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:42:11.768483+00:00, run_after=2022-12-03T18:42:11.768483+00:00
+[2022-12-02T18:42:11.863+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.114 seconds
+[2022-12-02T18:42:42.098+0000] {processor.py:154} INFO - Started process (PID=1237) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:42:42.101+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:42:42.103+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:42.103+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:42:42.147+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:42:42.193+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:42.193+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:42:42.206+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:42:42.206+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:42:42.117659+00:00, run_after=2022-12-03T18:42:42.117659+00:00
+[2022-12-02T18:42:42.217+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.124 seconds
+[2022-12-02T18:43:12.465+0000] {processor.py:154} INFO - Started process (PID=1265) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:43:12.467+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:43:12.469+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:12.469+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:43:12.488+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:43:12.552+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:12.552+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:43:12.566+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:12.566+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:43:12.478698+00:00, run_after=2022-12-03T18:43:12.478698+00:00
+[2022-12-02T18:43:12.578+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.116 seconds
+[2022-12-02T18:43:42.834+0000] {processor.py:154} INFO - Started process (PID=1284) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:43:42.837+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:43:42.838+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:42.838+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:43:42.861+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:43:42.913+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:42.913+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:43:42.927+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:43:42.927+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:43:42.849778+00:00, run_after=2022-12-03T18:43:42.849778+00:00
+[2022-12-02T18:43:42.940+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.111 seconds
+[2022-12-02T18:44:13.126+0000] {processor.py:154} INFO - Started process (PID=1311) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:44:13.128+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:44:13.129+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:13.129+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:44:13.165+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:44:13.219+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:13.219+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:44:13.232+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:13.232+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:44:13.143308+00:00, run_after=2022-12-03T18:44:13.143308+00:00
+[2022-12-02T18:44:13.245+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.123 seconds
+[2022-12-02T18:44:43.435+0000] {processor.py:154} INFO - Started process (PID=1341) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:44:43.437+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:44:43.438+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:43.438+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:44:43.456+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:44:43.504+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:43.504+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:44:43.516+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:44:43.516+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:44:43.446422+00:00, run_after=2022-12-03T18:44:43.446422+00:00
+[2022-12-02T18:44:43.526+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.094 seconds
+[2022-12-02T18:45:03.685+0000] {processor.py:154} INFO - Started process (PID=1360) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:45:03.688+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:45:03.689+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:03.689+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:45:03.718+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:45:03.741+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:03.741+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:45:03.755+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:03.755+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:45:03.708681+00:00, run_after=2022-12-03T18:45:03.708681+00:00
+[2022-12-02T18:45:03.767+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.086 seconds
+[2022-12-02T18:45:33.947+0000] {processor.py:154} INFO - Started process (PID=1388) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:45:33.950+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:45:33.951+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:33.951+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:45:33.976+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:45:34.024+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:34.024+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:45:34.038+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:45:34.038+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:45:33.965305+00:00, run_after=2022-12-03T18:45:33.965305+00:00
+[2022-12-02T18:45:34.049+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.106 seconds
+[2022-12-02T18:46:04.298+0000] {processor.py:154} INFO - Started process (PID=1405) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:46:04.301+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:46:04.303+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:04.303+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:04.329+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:04.394+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:04.394+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:46:04.408+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:04.408+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:46:04.316687+00:00, run_after=2022-12-03T18:46:04.316687+00:00
+[2022-12-02T18:46:04.419+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.125 seconds
+[2022-12-02T18:46:11.494+0000] {processor.py:154} INFO - Started process (PID=1415) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:46:11.496+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:46:11.497+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:11.497+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:11.524+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:11.561+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:11.561+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:46:11.577+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:11.577+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:46:11.513930+00:00, run_after=2022-12-03T18:46:11.513930+00:00
+[2022-12-02T18:46:11.591+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.099 seconds
+[2022-12-02T18:46:41.920+0000] {processor.py:154} INFO - Started process (PID=1443) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:46:41.923+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:46:41.924+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:41.924+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:41.950+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:46:42.005+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:42.005+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:46:42.030+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:46:42.030+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:46:41.938373+00:00, run_after=2022-12-03T18:46:41.938373+00:00
+[2022-12-02T18:46:42.041+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.134 seconds
+[2022-12-02T18:47:12.268+0000] {processor.py:154} INFO - Started process (PID=1471) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:47:12.271+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:47:12.274+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:12.273+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:47:12.297+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:47:12.342+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:12.342+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:47:12.356+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:12.356+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:47:12.286504+00:00, run_after=2022-12-03T18:47:12.286504+00:00
+[2022-12-02T18:47:12.366+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.102 seconds
+[2022-12-02T18:47:42.627+0000] {processor.py:154} INFO - Started process (PID=1499) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:47:42.630+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:47:42.632+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:42.632+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:47:42.666+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:47:42.738+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:42.738+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:47:42.763+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:47:42.763+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:47:42.644164+00:00, run_after=2022-12-03T18:47:42.644164+00:00
+[2022-12-02T18:47:42.776+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.154 seconds
+[2022-12-02T18:48:13.054+0000] {processor.py:154} INFO - Started process (PID=1519) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:48:13.057+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:48:13.060+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:13.060+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:48:13.088+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:48:13.142+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:13.142+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:48:13.155+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:13.155+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:48:13.075074+00:00, run_after=2022-12-03T18:48:13.075074+00:00
+[2022-12-02T18:48:13.166+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.117 seconds
+[2022-12-02T18:48:43.413+0000] {processor.py:154} INFO - Started process (PID=1545) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:48:43.416+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:48:43.418+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:43.417+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:48:43.445+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:48:43.499+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:43.499+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:48:43.511+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:48:43.511+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:48:43.428347+00:00, run_after=2022-12-03T18:48:43.428347+00:00
+[2022-12-02T18:48:43.522+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.114 seconds
+[2022-12-02T18:49:13.746+0000] {processor.py:154} INFO - Started process (PID=1572) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:49:13.748+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:49:13.750+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:13.750+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:49:13.780+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:49:13.853+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:13.853+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:49:13.870+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:13.870+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:49:13.767592+00:00, run_after=2022-12-03T18:49:13.767592+00:00
+[2022-12-02T18:49:13.881+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.141 seconds
+[2022-12-02T18:49:44.263+0000] {processor.py:154} INFO - Started process (PID=1600) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:49:44.266+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:49:44.268+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:44.267+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:49:44.315+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:49:44.405+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:44.405+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:49:44.422+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:49:44.422+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:49:44.288934+00:00, run_after=2022-12-03T18:49:44.288934+00:00
+[2022-12-02T18:49:44.433+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.174 seconds
+[2022-12-02T18:50:14.588+0000] {processor.py:154} INFO - Started process (PID=1619) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:50:14.591+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:50:14.592+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:14.592+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:50:14.616+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:50:14.688+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:14.688+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:50:14.704+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:14.704+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:50:14.605790+00:00, run_after=2022-12-03T18:50:14.605790+00:00
+[2022-12-02T18:50:14.717+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.133 seconds
+[2022-12-02T18:50:44.948+0000] {processor.py:154} INFO - Started process (PID=1646) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:50:44.950+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:50:44.952+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:44.951+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:50:44.984+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:50:45.039+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:45.039+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:50:45.052+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:50:45.052+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:50:44.973256+00:00, run_after=2022-12-03T18:50:44.973256+00:00
+[2022-12-02T18:50:45.063+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.120 seconds
+[2022-12-02T18:51:15.277+0000] {processor.py:154} INFO - Started process (PID=1676) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:51:15.279+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:51:15.281+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:15.280+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:51:15.302+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:51:15.369+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:15.369+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:51:15.382+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:15.382+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:51:15.291067+00:00, run_after=2022-12-03T18:51:15.291067+00:00
+[2022-12-02T18:51:15.393+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.121 seconds
+[2022-12-02T18:51:45.774+0000] {processor.py:154} INFO - Started process (PID=1705) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:51:45.776+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:51:45.778+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:45.778+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:51:45.800+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:51:45.865+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:45.865+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:51:45.878+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:51:45.878+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:51:45.790295+00:00, run_after=2022-12-03T18:51:45.790295+00:00
+[2022-12-02T18:51:45.890+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.121 seconds
+[2022-12-02T18:52:16.132+0000] {processor.py:154} INFO - Started process (PID=1734) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:52:16.135+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:52:16.137+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:16.136+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:52:16.158+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:52:16.205+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:16.205+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:52:16.218+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:16.218+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:52:16.147708+00:00, run_after=2022-12-03T18:52:16.147708+00:00
+[2022-12-02T18:52:16.228+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.100 seconds
+[2022-12-02T18:52:46.438+0000] {processor.py:154} INFO - Started process (PID=1753) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:52:46.440+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:52:46.441+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:46.441+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:52:46.475+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:52:46.536+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:46.536+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:52:46.551+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:52:46.551+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:52:46.457821+00:00, run_after=2022-12-03T18:52:46.457821+00:00
+[2022-12-02T18:52:46.562+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.127 seconds
+[2022-12-02T18:53:16.762+0000] {processor.py:154} INFO - Started process (PID=1780) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:53:16.764+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:53:16.765+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:16.765+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:53:16.793+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:53:16.860+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:16.860+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:53:16.874+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:16.874+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:53:16.781651+00:00, run_after=2022-12-03T18:53:16.781651+00:00
+[2022-12-02T18:53:16.887+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.129 seconds
+[2022-12-02T18:53:47.074+0000] {processor.py:154} INFO - Started process (PID=1807) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:53:47.077+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:53:47.079+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:47.079+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:53:47.104+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:53:47.155+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:47.155+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:53:47.167+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:53:47.167+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:53:47.091801+00:00, run_after=2022-12-03T18:53:47.091801+00:00
+[2022-12-02T18:53:47.177+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.108 seconds
+[2022-12-02T18:54:17.336+0000] {processor.py:154} INFO - Started process (PID=1835) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:54:17.338+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:54:17.340+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:17.340+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:54:17.362+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:54:17.422+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:17.421+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:54:17.437+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:17.437+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:54:17.350317+00:00, run_after=2022-12-03T18:54:17.350317+00:00
+[2022-12-02T18:54:17.449+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.117 seconds
+[2022-12-02T18:54:47.644+0000] {processor.py:154} INFO - Started process (PID=1863) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:54:47.646+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:54:47.647+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:47.647+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:54:47.666+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:54:47.712+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:47.712+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:54:47.725+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:54:47.725+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:54:47.656915+00:00, run_after=2022-12-03T18:54:47.656915+00:00
+[2022-12-02T18:54:47.735+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.095 seconds
+[2022-12-02T18:55:17.937+0000] {processor.py:154} INFO - Started process (PID=1888) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:55:17.939+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:55:17.941+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:17.940+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:55:17.964+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:55:18.040+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:18.040+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:55:18.057+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:18.057+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:55:17.952408+00:00, run_after=2022-12-03T18:55:17.952408+00:00
+[2022-12-02T18:55:18.072+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.137 seconds
+[2022-12-02T18:55:48.312+0000] {processor.py:154} INFO - Started process (PID=1909) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:55:48.315+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:55:48.316+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:48.316+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:55:48.355+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:55:48.409+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:48.409+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:55:48.423+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:55:48.423+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:55:48.330803+00:00, run_after=2022-12-03T18:55:48.330803+00:00
+[2022-12-02T18:55:48.435+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.129 seconds
+[2022-12-02T18:56:18.578+0000] {processor.py:154} INFO - Started process (PID=1939) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:56:18.580+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:56:18.581+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:18.581+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:56:18.601+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:56:18.648+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:18.647+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:56:18.660+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:18.660+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:56:18.591023+00:00, run_after=2022-12-03T18:56:18.591023+00:00
+[2022-12-02T18:56:18.675+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.101 seconds
+[2022-12-02T18:56:48.852+0000] {processor.py:154} INFO - Started process (PID=1966) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:56:48.854+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:56:48.856+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:48.856+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:56:48.884+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:56:48.938+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:48.938+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:56:48.951+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:56:48.951+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:56:48.865537+00:00, run_after=2022-12-03T18:56:48.865537+00:00
+[2022-12-02T18:56:48.962+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.113 seconds
+[2022-12-02T18:57:19.185+0000] {processor.py:154} INFO - Started process (PID=1994) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:57:19.187+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:57:19.188+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:19.188+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:57:19.211+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:57:19.257+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:19.257+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:57:19.269+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:19.269+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:57:19.199442+00:00, run_after=2022-12-03T18:57:19.199442+00:00
+[2022-12-02T18:57:19.281+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.101 seconds
+[2022-12-02T18:57:49.484+0000] {processor.py:154} INFO - Started process (PID=2023) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:57:49.492+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:57:49.493+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:49.493+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:57:49.521+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:57:49.584+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:49.584+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:57:49.600+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:57:49.600+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:57:49.509186+00:00, run_after=2022-12-03T18:57:49.509186+00:00
+[2022-12-02T18:57:49.612+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.141 seconds
+[2022-12-02T18:58:19.811+0000] {processor.py:154} INFO - Started process (PID=2041) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:58:19.813+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:58:19.815+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:19.815+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:58:19.840+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:58:19.887+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:19.887+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:58:19.900+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:19.900+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:58:19.828105+00:00, run_after=2022-12-03T18:58:19.828105+00:00
+[2022-12-02T18:58:19.911+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.106 seconds
+[2022-12-02T18:58:50.129+0000] {processor.py:154} INFO - Started process (PID=2069) to work on /opt/airflow/dags/extract.py
+[2022-12-02T18:58:50.131+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract.py for tasks to queue
+[2022-12-02T18:58:50.133+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:50.133+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract.py
+[2022-12-02T18:58:50.156+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract']) retrieved from /opt/airflow/dags/extract.py
+[2022-12-02T18:58:50.195+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:50.195+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-02T18:58:50.206+0000] {logging_mixin.py:120} INFO - [2022-12-02T18:58:50.206+0000] {dag.py:3340} INFO - Setting next_dagrun for extract to 2022-12-02T18:58:50.145583+00:00, run_after=2022-12-03T18:58:50.145583+00:00
+[2022-12-02T18:58:50.216+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract.py took 0.092 seconds

@@ -1,0 +1,2 @@
+name,region,country,lat,lon,tz_id,localtime_epoch,localtime,last_updated_epoch,last_updated,temp_c,temp_f,is_day,condition.text,condition.icon,condition.code,wind_mph,wind_kph,wind_degree,wind_dir,pressure_mb,pressure_in,precip_mm,precip_in,humidity,cloud,feelslike_c,feelslike_f,vis_km,vis_miles,uv,gust_mph,gust_kph
+Warsaw,,Poland,52.25,21.0,Europe/Warsaw,1670007183,2022-12-02 19:53,1670006700,2022-12-02 19:45,-4.0,24.8,0,Light snow,//cdn.weatherapi.com/weather/64x64/night/326.png,1213,8.1,13.0,70,ENE,1029.0,30.39,0.0,0.0,100,100,-8.9,16.0,6.0,3.0,1.0,11.2,18.0

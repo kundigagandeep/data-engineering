@@ -1,0 +1,35 @@
+[2022-12-02T18:43:01.856+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: extract.extract_weather_api manual__2022-12-02T18:37:59.573040+00:00 [queued]>
+[2022-12-02T18:43:01.862+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: extract.extract_weather_api manual__2022-12-02T18:37:59.573040+00:00 [queued]>
+[2022-12-02T18:43:01.863+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-02T18:43:01.864+0000] {taskinstance.py:1363} INFO - Starting attempt 2 of 2
+[2022-12-02T18:43:01.864+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-02T18:43:01.871+0000] {taskinstance.py:1383} INFO - Executing <Task(BashOperator): extract_weather_api> on 2022-12-02 18:37:59.573040+00:00
+[2022-12-02T18:43:01.876+0000] {standard_task_runner.py:55} INFO - Started process 1204 to run task
+[2022-12-02T18:43:01.878+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'extract', 'extract_weather_api', 'manual__2022-12-02T18:37:59.573040+00:00', '--job-id', '4', '--raw', '--subdir', 'DAGS_FOLDER/extract.py', '--cfg-path', '/tmp/tmpos7l3y0p']
+[2022-12-02T18:43:01.879+0000] {standard_task_runner.py:83} INFO - Job 4: Subtask extract_weather_api
+[2022-12-02T18:43:01.913+0000] {task_command.py:376} INFO - Running <TaskInstance: extract.extract_weather_api manual__2022-12-02T18:37:59.573040+00:00 [running]> on host 299b7b2f3c95
+[2022-12-02T18:43:01.957+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***@***.com
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=extract
+AIRFLOW_CTX_TASK_ID=extract_weather_api
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-02T18:37:59.573040+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-12-02T18:37:59.573040+00:00
+[2022-12-02T18:43:01.959+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2022-12-02T18:43:01.960+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'python /Users/gagandeepkundi/data-engineering/projects/weather-etl-ml-project/src/extract.py']
+[2022-12-02T18:43:01.968+0000] {subprocess.py:86} INFO - Output:
+[2022-12-02T18:43:02.018+0000] {subprocess.py:93} INFO - python: can't open file '/Users/gagandeepkundi/data-engineering/projects/weather-etl-ml-project/src/extract.py': [Errno 2] No such file or directory
+[2022-12-02T18:43:02.020+0000] {subprocess.py:97} INFO - Command exited with return code 2
+[2022-12-02T18:43:02.029+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/bash.py", line 197, in execute
+    f'Bash command failed. The command returned a non-zero exit code {result.exit_code}.'
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2022-12-02T18:43:02.032+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=extract, task_id=extract_weather_api, execution_date=20221202T183759, start_date=20221202T184301, end_date=20221202T184302
+[2022-12-02T18:43:02.041+0000] {standard_task_runner.py:105} ERROR - Failed to execute job 4 for task extract_weather_api (Bash command failed. The command returned a non-zero exit code 2.; 1204)
+[2022-12-02T18:43:02.051+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-12-02T18:43:02.068+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

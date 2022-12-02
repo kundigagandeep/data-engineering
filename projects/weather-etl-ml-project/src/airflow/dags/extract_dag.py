@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime.now(),
+    'start_date': datetime(2022,12,2,20,15),
     'schedule_interval': "*/15 * * * *",
     'email': ['airflow@airflow.com'],
     'email_on_failure': False,
@@ -15,7 +15,7 @@ default_args = {
     'retry_delay': timedelta(minutes=5),
     }
 
-with DAG('extract',
+with DAG('extract_dag',
         default_args=default_args) as dag:
         
         task1 = BashOperator(
