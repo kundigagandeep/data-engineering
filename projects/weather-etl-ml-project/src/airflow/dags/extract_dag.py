@@ -1,18 +1,16 @@
 from airflow import DAG
 from airflow.operators.bash import BashOperator
+#from airflow.operators.python_operator import PythonOperator
 from datetime import datetime, timedelta
+#from includes import extract_func, transform_func
 
 
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
     'start_date': datetime(2022,12,2,20,15),
-    'schedule_interval': "*/15 * * * *",
+    'schedule_interval':timedelta(minutes=15),
     'email': ['airflow@airflow.com'],
-    'email_on_failure': False,
-    'email_on_retry': False,
-    'retries': 1,
-    'retry_delay': timedelta(minutes=5),
     }
 
 with DAG('extract_dag',
@@ -20,12 +18,11 @@ with DAG('extract_dag',
         
         task1 = BashOperator(
         task_id='extract_weather_api',
-        bash_command='python /Users/gagandeepkundi/data-engineering/projects/weather-etl-ml-project/src/extract.py',
+        bash_command="ls",
         dag=dag)
 
-        task2 = BashOperator(
-        task_id='transform_data',
-        bash_command='python /Users/gagandeepkundi/data-engineering/projects/weather-etl-ml-project/src/transform.py',
-        dag=dag)
+        # task2 = BashOperator(
+        # task_id='transform_data',
+        # bash_command="python includes/transform.py")
 
-        task1.set_downstream(task2)
+        # task1.set_downstream(task2)
