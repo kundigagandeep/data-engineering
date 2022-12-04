@@ -1,0 +1,27 @@
+[2022-12-04T05:07:01.831+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: extract_dag.print_now scheduled__2022-12-04T04:45:00+00:00 [queued]>
+[2022-12-04T05:07:01.843+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: extract_dag.print_now scheduled__2022-12-04T04:45:00+00:00 [queued]>
+[2022-12-04T05:07:01.844+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-04T05:07:01.844+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 1
+[2022-12-04T05:07:01.845+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-12-04T05:07:01.865+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): print_now> on 2022-12-04 04:45:00+00:00
+[2022-12-04T05:07:01.871+0000] {standard_task_runner.py:55} INFO - Started process 3576 to run task
+[2022-12-04T05:07:01.878+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'extract_dag', 'print_now', 'scheduled__2022-12-04T04:45:00+00:00', '--job-id', '30', '--raw', '--subdir', 'DAGS_FOLDER/extract_dag.py', '--cfg-path', '/tmp/tmp392ibmsj']
+[2022-12-04T05:07:01.882+0000] {standard_task_runner.py:83} INFO - Job 30: Subtask print_now
+[2022-12-04T05:07:01.973+0000] {task_command.py:376} INFO - Running <TaskInstance: extract_dag.print_now scheduled__2022-12-04T04:45:00+00:00 [running]> on host 65ab33c03c57
+[2022-12-04T05:07:02.049+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=***@***.com
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=extract_dag
+AIRFLOW_CTX_TASK_ID=print_now
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-04T04:45:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-12-04T04:45:00+00:00
+[2022-12-04T05:07:02.051+0000] {extract_dag.py:68} INFO - WRITING NOW
+[2022-12-04T05:07:02.052+0000] {extract_dag.py:69} INFO - 2022-12-04T05:07:02.052444
+[2022-12-04T05:07:02.052+0000] {extract_dag.py:70} INFO - TIME WRITTEN
+[2022-12-04T05:07:02.053+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-12-04T05:07:02.063+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=extract_dag, task_id=print_now, execution_date=20221204T044500, start_date=20221204T050701, end_date=20221204T050702
+[2022-12-04T05:07:02.091+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-12-04T05:07:02.126+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

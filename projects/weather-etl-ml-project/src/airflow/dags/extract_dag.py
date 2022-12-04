@@ -11,13 +11,16 @@ import logging
 default_args = {
     'owner': 'airflow',
     'depends_on_past': False,
-    'start_date': datetime(2022,12,2,20,15),
-    'schedule_interval':timedelta(minutes=15),
+    'start_date': datetime(2022,12,4,2,30),
+    'end_date': datetime(2022,12,31),
     'email': ['airflow@airflow.com'],
     }
 
 
-with DAG('extract_dag', default_args=default_args, catchup=False) as dag:
+with DAG('extract_dag', 
+        default_args=default_args, 
+        schedule_interval='*/15 * * * *', 
+        catchup=False) as dag:
     
     @task
     def extract_func():
@@ -43,7 +46,7 @@ with DAG('extract_dag', default_args=default_args, catchup=False) as dag:
 
         df.to_csv(f'/opt/airflow/dags/data/01_raw/{col_name}_weather_api.csv',index=False)
 
-        logging.info(f'Weather CSV created succesfully.')
+        logging.info(f'New weather updated succesfully.')
 
         p = Path("/opt/airflow/dags/data")
 
@@ -58,6 +61,8 @@ with DAG('extract_dag', default_args=default_args, catchup=False) as dag:
             df_main.append(df)
         df_final = pd.concat(df_main,axis=0)                 
         df_final.to_csv(f'{str(intermediate_data_path)}/weather.csv', index=False)
+
+        logging.info(f'Weather CSV created succesfully.')
     
     def print_now():
         logging.info('WRITING NOW')
