@@ -1,0 +1,1020 @@
+[2022-12-04T00:39:16.536+0000] {processor.py:154} INFO - Started process (PID=32) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:16.538+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:39:16.539+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:16.539+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:17.386+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:17.473+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:17.473+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:39:17.490+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:17.490+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-02T20:15:00+00:00, run_after=2022-12-03T20:15:00+00:00
+[2022-12-04T00:39:17.504+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.970 seconds
+[2022-12-04T00:39:47.908+0000] {processor.py:154} INFO - Started process (PID=61) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:47.909+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:39:47.910+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:47.910+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:48.321+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:39:48.346+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:48.345+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:39:48.360+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:39:48.359+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:39:48.368+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.464 seconds
+[2022-12-04T00:40:18.674+0000] {processor.py:154} INFO - Started process (PID=91) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:18.677+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:40:18.679+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:18.679+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:19.063+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:19.108+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:19.108+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:40:19.127+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:19.127+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:40:19.144+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.477 seconds
+[2022-12-04T00:40:49.443+0000] {processor.py:154} INFO - Started process (PID=120) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:49.444+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:40:49.445+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:49.445+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:49.746+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:40:49.773+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:49.772+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:40:49.789+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:40:49.789+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:40:49.798+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.359 seconds
+[2022-12-04T00:41:20.123+0000] {processor.py:154} INFO - Started process (PID=149) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:20.125+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:41:20.127+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:20.126+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:20.448+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:20.472+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:20.472+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:41:20.486+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:20.486+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:41:20.496+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.379 seconds
+[2022-12-04T00:41:50.790+0000] {processor.py:154} INFO - Started process (PID=170) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:50.792+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:41:50.794+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:50.794+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:51.137+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:41:51.167+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:51.166+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:41:51.188+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:41:51.188+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:41:51.203+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.420 seconds
+[2022-12-04T00:42:21.539+0000] {processor.py:154} INFO - Started process (PID=199) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:21.542+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:42:21.544+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:21.543+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:21.898+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:21.923+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:21.923+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:42:21.938+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:21.938+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:42:21.946+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.415 seconds
+[2022-12-04T00:42:52.289+0000] {processor.py:154} INFO - Started process (PID=228) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:52.292+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:42:52.294+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:52.294+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:52.605+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:42:52.630+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:52.630+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:42:52.644+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:42:52.644+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:42:52.653+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.370 seconds
+[2022-12-04T00:43:22.926+0000] {processor.py:154} INFO - Started process (PID=258) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:22.929+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:43:22.931+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:22.931+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:23.289+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:23.318+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:23.318+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:43:23.332+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:23.332+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:43:23.340+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.421 seconds
+[2022-12-04T00:43:53.656+0000] {processor.py:154} INFO - Started process (PID=287) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:53.661+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:43:53.664+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:53.664+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:54.324+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:43:54.390+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:54.389+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:43:54.422+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:43:54.422+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:43:54.439+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.804 seconds
+[2022-12-04T00:44:24.619+0000] {processor.py:154} INFO - Started process (PID=315) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:24.620+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:44:24.621+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:24.621+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:25.042+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:25.069+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:25.069+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:44:25.083+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:25.083+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:44:25.092+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.477 seconds
+[2022-12-04T00:44:55.422+0000] {processor.py:154} INFO - Started process (PID=343) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:55.423+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:44:55.425+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:55.425+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:55.744+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:44:55.768+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:55.768+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:44:55.781+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:44:55.781+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:44:55.790+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.375 seconds
+[2022-12-04T00:45:26.125+0000] {processor.py:154} INFO - Started process (PID=362) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:26.127+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:45:26.129+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:26.129+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:26.594+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:26.633+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:26.633+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:45:26.650+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:26.649+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:45:26.662+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.542 seconds
+[2022-12-04T00:45:57.034+0000] {processor.py:154} INFO - Started process (PID=390) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:57.036+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:45:57.037+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:57.037+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:57.401+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:45:57.433+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:57.432+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:45:57.449+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:45:57.449+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:45:57.458+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.430 seconds
+[2022-12-04T00:46:27.882+0000] {processor.py:154} INFO - Started process (PID=419) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:27.893+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:46:27.896+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:27.896+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:28.347+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:28.378+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:28.378+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:46:28.403+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:28.403+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:46:28.412+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.552 seconds
+[2022-12-04T00:46:58.690+0000] {processor.py:154} INFO - Started process (PID=447) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:58.693+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:46:58.694+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:58.694+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:59.028+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:46:59.053+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:59.052+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:46:59.066+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:46:59.066+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:46:59.075+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.389 seconds
+[2022-12-04T00:47:29.379+0000] {processor.py:154} INFO - Started process (PID=477) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:47:29.380+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:47:29.382+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:47:29.382+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:47:29.959+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:47:30.016+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:47:30.015+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:47:30.034+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:47:30.034+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:47:30.048+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.674 seconds
+[2022-12-04T00:48:00.276+0000] {processor.py:154} INFO - Started process (PID=505) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:00.279+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:48:00.280+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:00.280+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:00.586+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:00.618+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:00.618+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:48:00.632+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:00.632+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:48:00.641+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.370 seconds
+[2022-12-04T00:48:30.971+0000] {processor.py:154} INFO - Started process (PID=535) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:30.975+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:48:30.976+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:30.976+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:31.301+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:48:31.325+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:31.325+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:48:31.337+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:48:31.337+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:48:31.346+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.381 seconds
+[2022-12-04T00:49:01.629+0000] {processor.py:154} INFO - Started process (PID=555) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:01.631+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:49:01.633+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:01.633+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:01.958+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:01.989+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:01.988+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:49:02.003+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:02.003+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:49:02.013+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.391 seconds
+[2022-12-04T00:49:32.137+0000] {processor.py:154} INFO - Started process (PID=583) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:32.141+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:49:32.142+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:32.142+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:32.448+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:49:32.472+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:32.471+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:49:32.484+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:49:32.484+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:49:32.493+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.363 seconds
+[2022-12-04T00:50:03.466+0000] {processor.py:154} INFO - Started process (PID=612) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:03.469+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:50:03.471+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:03.471+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:03.766+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:03.789+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:03.789+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:50:03.802+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:03.802+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:50:03.811+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.352 seconds
+[2022-12-04T00:50:34.810+0000] {processor.py:154} INFO - Started process (PID=642) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:34.813+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:50:34.814+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:34.814+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:35.105+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:50:35.129+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:35.129+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:50:35.142+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:50:35.142+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:50:35.151+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.348 seconds
+[2022-12-04T00:51:05.231+0000] {processor.py:154} INFO - Started process (PID=672) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:05.233+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:51:05.235+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:05.234+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:05.558+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:05.587+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:05.586+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:51:05.600+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:05.600+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:51:05.610+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.384 seconds
+[2022-12-04T00:51:35.665+0000] {processor.py:154} INFO - Started process (PID=702) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:35.667+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:51:35.668+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:35.668+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:35.995+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:51:36.020+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:36.020+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:51:36.034+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:51:36.034+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:51:36.043+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.382 seconds
+[2022-12-04T00:52:06.125+0000] {processor.py:154} INFO - Started process (PID=733) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:06.129+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:52:06.130+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:06.130+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:06.444+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:06.468+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:06.468+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:52:06.480+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:06.480+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:52:06.490+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.372 seconds
+[2022-12-04T00:52:37.446+0000] {processor.py:154} INFO - Started process (PID=762) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:37.449+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:52:37.450+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:37.450+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:37.931+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:52:37.951+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:37.951+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:52:37.967+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:52:37.967+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:52:37.978+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.538 seconds
+[2022-12-04T00:53:08.822+0000] {processor.py:154} INFO - Started process (PID=783) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:08.825+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:53:08.827+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:08.827+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:09.147+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:09.170+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:09.170+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:53:09.184+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:09.184+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:53:09.192+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.378 seconds
+[2022-12-04T00:53:39.282+0000] {processor.py:154} INFO - Started process (PID=813) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:39.286+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:53:39.287+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:39.287+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:39.600+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:53:39.624+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:39.624+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:53:39.637+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:53:39.637+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:53:39.647+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.372 seconds
+[2022-12-04T00:54:10.546+0000] {processor.py:154} INFO - Started process (PID=843) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:10.548+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:54:10.549+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:10.549+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:10.908+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:10.936+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:10.936+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:54:10.950+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:10.950+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:54:10.959+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.416 seconds
+[2022-12-04T00:54:41.943+0000] {processor.py:154} INFO - Started process (PID=873) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:41.946+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:54:41.948+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:41.947+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:42.265+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:54:42.286+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:42.286+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:54:42.299+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:54:42.299+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:54:42.308+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.372 seconds
+[2022-12-04T00:55:13.228+0000] {processor.py:154} INFO - Started process (PID=904) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:13.231+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:55:13.231+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:13.231+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:13.544+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:13.568+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:13.568+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:55:13.586+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:13.586+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:55:13.600+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.376 seconds
+[2022-12-04T00:55:43.704+0000] {processor.py:154} INFO - Started process (PID=933) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:43.705+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:55:43.706+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:43.706+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:43.999+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:55:44.023+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:44.022+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:55:44.036+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:55:44.036+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:55:44.046+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.346 seconds
+[2022-12-04T00:56:14.159+0000] {processor.py:154} INFO - Started process (PID=963) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:14.162+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:56:14.163+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:14.163+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:14.494+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:14.517+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:14.517+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:56:14.531+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:14.531+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:56:14.540+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.387 seconds
+[2022-12-04T00:56:45.513+0000] {processor.py:154} INFO - Started process (PID=992) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:45.516+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:56:45.517+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:45.517+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:45.834+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:56:45.859+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:45.858+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:56:45.873+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:56:45.873+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:56:45.882+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.377 seconds
+[2022-12-04T00:57:16.887+0000] {processor.py:154} INFO - Started process (PID=1022) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:16.890+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:57:16.891+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:16.891+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:17.315+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:17.337+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:17.336+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:57:17.349+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:17.349+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:57:17.360+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.480 seconds
+[2022-12-04T00:57:48.283+0000] {processor.py:154} INFO - Started process (PID=1043) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:48.285+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:57:48.286+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:48.286+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:48.676+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:57:48.706+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:48.706+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:57:48.723+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:57:48.722+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:57:48.734+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.457 seconds
+[2022-12-04T00:58:19.724+0000] {processor.py:154} INFO - Started process (PID=1074) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:19.727+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:58:19.728+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:19.728+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:20.198+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:20.224+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:20.224+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:58:20.245+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:20.245+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:58:20.255+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.537 seconds
+[2022-12-04T00:58:37.980+0000] {processor.py:154} INFO - Started process (PID=1095) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:37.983+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:58:37.986+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:37.985+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:38.348+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:38.346+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 57, in <module>
+    print_time_task >> custom_get_contents_then_save_task()
+NameError: name 'custom_get_contents_then_save_task' is not defined
+[2022-12-04T00:58:38.348+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:38.365+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.392 seconds
+[2022-12-04T00:58:52.519+0000] {processor.py:154} INFO - Started process (PID=1106) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:52.522+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:58:52.523+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:52.523+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:52.932+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:58:52.986+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:52.985+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:58:52.999+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:58:52.999+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:58:53.010+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.497 seconds
+[2022-12-04T00:59:23.494+0000] {processor.py:154} INFO - Started process (PID=1145) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:23.498+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:59:23.499+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:23.499+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:23.867+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:23.907+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:23.907+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:59:23.922+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:23.922+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:59:23.931+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.451 seconds
+[2022-12-04T00:59:54.831+0000] {processor.py:154} INFO - Started process (PID=1175) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:54.834+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T00:59:54.835+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:54.835+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:55.236+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T00:59:55.286+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:55.286+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T00:59:55.313+0000] {logging_mixin.py:120} INFO - [2022-12-04T00:59:55.313+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T00:59:55.342+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.522 seconds
+[2022-12-04T01:00:26.237+0000] {processor.py:154} INFO - Started process (PID=1206) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:26.239+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:00:26.240+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:26.240+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:26.563+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:26.585+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:26.584+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:00:26.597+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:26.597+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:00:26.605+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.374 seconds
+[2022-12-04T01:00:56.698+0000] {processor.py:154} INFO - Started process (PID=1236) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:56.700+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:00:56.701+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:56.701+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:57.121+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:00:57.149+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:57.149+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:00:57.164+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:00:57.164+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:00:57.176+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.481 seconds
+[2022-12-04T01:01:27.974+0000] {processor.py:154} INFO - Started process (PID=1267) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:27.976+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:01:27.977+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:27.977+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:28.301+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:28.324+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:28.323+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:01:28.337+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:28.337+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:01:28.345+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.378 seconds
+[2022-12-04T01:01:58.463+0000] {processor.py:154} INFO - Started process (PID=1296) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:58.466+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:01:58.467+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:58.467+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:58.767+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:01:58.790+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:58.790+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:01:58.804+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:01:58.804+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:01:58.812+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.355 seconds
+[2022-12-04T01:02:28.891+0000] {processor.py:154} INFO - Started process (PID=1318) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:02:28.895+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:02:28.896+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:02:28.896+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:02:29.256+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:02:29.283+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:02:29.282+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:02:29.297+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:02:29.297+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:02:29.307+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.424 seconds
+[2022-12-04T01:03:00.197+0000] {processor.py:154} INFO - Started process (PID=1349) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:00.199+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:03:00.200+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:00.200+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:00.504+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:00.526+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:00.526+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:03:00.539+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:00.539+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:03:00.547+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.356 seconds
+[2022-12-04T01:03:30.721+0000] {processor.py:154} INFO - Started process (PID=1379) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:30.723+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:03:30.725+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:30.724+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:31.109+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:03:31.134+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:31.134+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:03:31.147+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:03:31.147+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:03:31.156+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.441 seconds
+[2022-12-04T01:04:02.022+0000] {processor.py:154} INFO - Started process (PID=1408) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:02.026+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:04:02.027+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:02.027+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:02.392+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:02.426+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:02.426+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:04:02.440+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:02.440+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:04:02.451+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.436 seconds
+[2022-12-04T01:04:32.508+0000] {processor.py:154} INFO - Started process (PID=1437) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:32.510+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:04:32.511+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:32.511+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:32.869+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:04:32.896+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:32.895+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:04:32.910+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:04:32.910+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:04:32.920+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.415 seconds
+[2022-12-04T01:05:03.001+0000] {processor.py:154} INFO - Started process (PID=1467) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:03.004+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:05:03.006+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:03.005+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:03.324+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:03.349+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:03.349+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:05:03.364+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:03.364+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:05:03.373+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.379 seconds
+[2022-12-04T01:05:33.453+0000] {processor.py:154} INFO - Started process (PID=1496) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:33.455+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:05:33.457+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:33.457+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:33.764+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:05:33.789+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:33.789+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:05:33.808+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:05:33.808+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:05:33.818+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.370 seconds
+[2022-12-04T01:06:04.687+0000] {processor.py:154} INFO - Started process (PID=1524) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:04.688+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:06:04.689+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:04.689+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:05.103+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:05.142+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:05.141+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:06:05.163+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:05.163+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:06:05.180+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.495 seconds
+[2022-12-04T01:06:35.241+0000] {processor.py:154} INFO - Started process (PID=1546) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:35.242+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:06:35.243+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:35.243+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:35.584+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:06:35.615+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:35.614+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:06:35.633+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:06:35.632+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:06:35.642+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.405 seconds
+[2022-12-04T01:07:05.747+0000] {processor.py:154} INFO - Started process (PID=1575) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:05.750+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:07:05.751+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:05.751+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:06.084+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:06.110+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:06.109+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:07:06.123+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:06.123+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:07:06.132+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.390 seconds
+[2022-12-04T01:07:36.230+0000] {processor.py:154} INFO - Started process (PID=1604) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:36.232+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:07:36.233+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:36.233+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:36.595+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:07:36.624+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:36.623+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:07:36.637+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:07:36.637+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:07:36.646+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.421 seconds
+[2022-12-04T01:08:07.571+0000] {processor.py:154} INFO - Started process (PID=1634) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:07.573+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:08:07.574+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:07.574+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:07.944+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:07.969+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:07.969+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:08:07.983+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:07.983+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:08:07.996+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.430 seconds
+[2022-12-04T01:08:38.129+0000] {processor.py:154} INFO - Started process (PID=1663) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:38.132+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:08:38.133+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:38.133+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:38.441+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:08:38.469+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:38.469+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:08:38.483+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:08:38.483+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:08:38.493+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.371 seconds
+[2022-12-04T01:09:09.415+0000] {processor.py:154} INFO - Started process (PID=1693) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:09.418+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:09:09.419+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:09.419+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:09.710+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:09.733+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:09.732+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:09:09.746+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:09.745+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:09:09.754+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.343 seconds
+[2022-12-04T01:09:39.880+0000] {processor.py:154} INFO - Started process (PID=1723) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:39.883+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:09:39.883+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:39.883+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:40.316+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:09:40.358+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:40.358+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:09:40.377+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:09:40.376+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:09:40.387+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.511 seconds
+[2022-12-04T01:10:06.116+0000] {processor.py:154} INFO - Started process (PID=1744) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:06.119+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:10:06.120+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:10:06.120+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:06.481+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:10:06.478+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 71, in <module>
+    print_time_task >> extract_func() >> transform_func
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: '_TaskDecorator' object has no attribute 'update_relative'
+[2022-12-04T01:10:06.481+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:06.495+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.383 seconds
+[2022-12-04T01:10:36.597+0000] {processor.py:154} INFO - Started process (PID=1774) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:36.600+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:10:36.601+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:10:36.601+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:36.902+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:10:36.900+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 71, in <module>
+    print_time_task >> extract_func() >> transform_func
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: '_TaskDecorator' object has no attribute 'update_relative'
+[2022-12-04T01:10:36.902+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:10:36.918+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.326 seconds
+[2022-12-04T01:11:07.249+0000] {processor.py:154} INFO - Started process (PID=1806) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:07.251+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:11:07.253+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:07.253+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:07.585+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:07.583+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 71, in <module>
+    print_time_task >> extract_func() >> transform_func
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: '_TaskDecorator' object has no attribute 'update_relative'
+[2022-12-04T01:11:07.587+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:07.606+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.365 seconds
+[2022-12-04T01:11:08.319+0000] {processor.py:154} INFO - Started process (PID=1808) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:08.321+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:11:08.323+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:08.323+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:08.591+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:08.590+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'function' object has no attribute 'update_relative'
+[2022-12-04T01:11:08.592+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:08.606+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.293 seconds
+[2022-12-04T01:11:31.581+0000] {processor.py:154} INFO - Started process (PID=1829) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:31.584+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:11:31.585+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:31.585+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:32.066+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:32.066+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:11:32.068+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:11:32.066+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:11:32.068+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:11:32.093+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.519 seconds
+[2022-12-04T01:12:02.231+0000] {processor.py:154} INFO - Started process (PID=1858) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:02.234+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:12:02.235+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:02.235+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:02.627+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:02.627+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:12:02.628+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:02.627+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:12:02.628+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:02.641+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.415 seconds
+[2022-12-04T01:12:33.529+0000] {processor.py:154} INFO - Started process (PID=1888) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:33.530+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:12:33.531+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:33.531+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:33.958+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:33.958+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:12:33.959+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:12:33.959+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:12:33.960+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:12:33.971+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.446 seconds
+[2022-12-04T01:13:04.917+0000] {processor.py:154} INFO - Started process (PID=1919) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:04.920+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:13:04.922+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:04.922+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:05.306+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:05.306+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:13:05.307+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:05.306+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:13:05.307+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:05.322+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.413 seconds
+[2022-12-04T01:13:36.226+0000] {processor.py:154} INFO - Started process (PID=1948) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:36.227+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:13:36.228+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:36.228+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:36.729+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:36.729+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:13:36.731+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:13:36.730+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:13:36.732+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:13:36.745+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.523 seconds
+[2022-12-04T01:14:06.804+0000] {processor.py:154} INFO - Started process (PID=1969) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:06.805+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:14:06.806+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:06.806+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:07.168+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:07.168+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:14:07.169+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:07.168+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:14:07.170+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:07.183+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.381 seconds
+[2022-12-04T01:14:37.352+0000] {processor.py:154} INFO - Started process (PID=1999) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:37.353+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:14:37.354+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:37.354+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:37.835+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:37.835+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:14:37.836+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:14:37.835+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:14:37.837+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:14:37.850+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.503 seconds
+[2022-12-04T01:15:08.624+0000] {processor.py:154} INFO - Started process (PID=2028) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:08.626+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:15:08.627+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:08.627+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:08.981+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:08.981+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:15:08.983+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:08.982+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> extract_func() >> transform_func()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:15:08.983+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:08.994+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.375 seconds
+[2022-12-04T01:15:23.986+0000] {processor.py:154} INFO - Started process (PID=2039) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:23.993+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:15:23.995+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:23.994+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:24.515+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:24.515+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:15:24.517+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:24.516+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:15:24.518+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:24.545+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.576 seconds
+[2022-12-04T01:15:54.953+0000] {processor.py:154} INFO - Started process (PID=2069) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:54.955+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:15:54.957+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:54.957+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:55.362+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:55.362+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:15:55.364+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:15:55.363+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:15:55.364+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:15:55.378+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.433 seconds
+[2022-12-04T01:16:25.488+0000] {processor.py:154} INFO - Started process (PID=2099) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:25.490+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:16:25.494+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:25.493+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:25.926+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:25.926+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:16:25.927+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:25.927+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:16:25.928+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:25.943+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.461 seconds
+[2022-12-04T01:16:56.772+0000] {processor.py:154} INFO - Started process (PID=2128) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:56.777+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:16:56.779+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:56.779+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:57.195+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:57.194+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:16:57.196+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:16:57.195+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:16:57.197+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:16:57.220+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.458 seconds
+[2022-12-04T01:17:28.141+0000] {processor.py:154} INFO - Started process (PID=2157) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:28.144+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:17:28.145+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:28.145+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:28.531+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:28.531+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:17:28.532+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:28.531+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:17:28.533+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:28.546+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.415 seconds
+[2022-12-04T01:17:58.709+0000] {processor.py:154} INFO - Started process (PID=2186) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:58.712+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:17:58.714+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:58.714+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:59.129+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:59.129+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:17:59.130+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:17:59.129+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:17:59.131+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:17:59.145+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.443 seconds
+[2022-12-04T01:18:30.106+0000] {processor.py:154} INFO - Started process (PID=2216) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:18:30.109+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:18:30.110+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:18:30.110+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:18:30.566+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:18:30.565+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:18:30.568+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:18:30.567+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:18:30.568+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:18:30.587+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.487 seconds
+[2022-12-04T01:19:01.501+0000] {processor.py:154} INFO - Started process (PID=2248) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:01.503+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:19:01.504+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:01.504+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:01.879+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:01.879+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:19:01.880+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:01.879+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:19:01.881+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:01.894+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.398 seconds
+[2022-12-04T01:19:32.802+0000] {processor.py:154} INFO - Started process (PID=2278) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:32.804+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:19:32.807+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:32.806+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:33.198+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:33.198+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:19:33.200+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:19:33.199+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:19:33.200+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:19:33.214+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.419 seconds
+[2022-12-04T01:20:04.081+0000] {processor.py:154} INFO - Started process (PID=2308) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:04.084+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:20:04.085+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:04.084+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:04.524+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:04.524+0000] {extract_dag.py:66} INFO - Transformed weather data SUCCESFULLY.
+[2022-12-04T01:20:04.526+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:04.525+0000] {dagbag.py:342} ERROR - Failed to import: /opt/airflow/dags/extract_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 338, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/extract_dag.py", line 70, in <module>
+    print_time_task >> [extract_func() >> transform_func()]
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 81, in __rshift__
+    self.set_downstream(other)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/xcom_arg.py", line 149, in set_downstream
+    operator.set_downstream(task_or_task_list, edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 230, in set_downstream
+    self._set_relatives(task_or_task_list, upstream=False, edge_modifier=edge_modifier)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskmixin.py", line 175, in _set_relatives
+    task_object.update_relative(self, not upstream)
+AttributeError: 'NoneType' object has no attribute 'update_relative'
+[2022-12-04T01:20:04.526+0000] {processor.py:768} WARNING - No viable dags retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:04.538+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.461 seconds
+[2022-12-04T01:20:05.163+0000] {processor.py:154} INFO - Started process (PID=2310) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:05.165+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:20:05.166+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:05.166+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:05.399+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:05.434+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:05.434+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:20:05.446+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:05.446+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:20:05.458+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.300 seconds
+[2022-12-04T01:20:35.552+0000] {processor.py:154} INFO - Started process (PID=2331) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:35.553+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:20:35.554+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:35.554+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:35.898+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:20:35.924+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:35.924+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:20:35.938+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:20:35.938+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:20:35.948+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.400 seconds
+[2022-12-04T01:21:06.849+0000] {processor.py:154} INFO - Started process (PID=2360) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:06.850+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:21:06.851+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:06.851+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:07.239+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:07.264+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:07.264+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:21:07.281+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:07.281+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:21:07.299+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.454 seconds
+[2022-12-04T01:21:37.398+0000] {processor.py:154} INFO - Started process (PID=2391) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:37.401+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:21:37.404+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:37.404+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:37.764+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:21:37.791+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:37.791+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:21:37.805+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:21:37.805+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:21:37.815+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.425 seconds
+[2022-12-04T01:22:08.672+0000] {processor.py:154} INFO - Started process (PID=2420) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:08.678+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:22:08.681+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:08.681+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:09.092+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:09.123+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:09.123+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:22:09.137+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:09.137+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:22:09.146+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.483 seconds
+[2022-12-04T01:22:39.220+0000] {processor.py:154} INFO - Started process (PID=2449) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:39.223+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:22:39.225+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:39.224+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:39.564+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:22:39.589+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:39.589+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:22:39.604+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:22:39.604+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:22:39.613+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.400 seconds
+[2022-12-04T01:23:10.598+0000] {processor.py:154} INFO - Started process (PID=2479) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:10.601+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:23:10.603+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:10.603+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:10.965+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:10.992+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:10.991+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:23:11.007+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:11.007+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:23:11.015+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.428 seconds
+[2022-12-04T01:23:13.649+0000] {processor.py:154} INFO - Started process (PID=2481) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:13.653+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:23:13.655+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:13.655+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:13.895+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:13.917+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:13.916+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:23:13.929+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:13.929+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:23:13.945+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.306 seconds
+[2022-12-04T01:23:44.141+0000] {processor.py:154} INFO - Started process (PID=2511) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:44.143+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:23:44.145+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:44.145+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:44.530+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:23:44.553+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:44.553+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:23:44.573+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:23:44.573+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:23:44.582+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.447 seconds
+[2022-12-04T01:24:14.743+0000] {processor.py:154} INFO - Started process (PID=2541) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:14.745+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:24:14.747+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:14.747+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:15.098+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:15.119+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:15.119+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:24:15.131+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:15.131+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:24:15.140+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.404 seconds
+[2022-12-04T01:24:45.239+0000] {processor.py:154} INFO - Started process (PID=2571) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:45.241+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:24:45.242+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:45.242+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:45.539+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:24:45.559+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:45.559+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:24:45.570+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:24:45.570+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:24:45.579+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.343 seconds
+[2022-12-04T01:25:15.744+0000] {processor.py:154} INFO - Started process (PID=2593) to work on /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:25:15.745+0000] {processor.py:756} INFO - Processing file /opt/airflow/dags/extract_dag.py for tasks to queue
+[2022-12-04T01:25:15.746+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:25:15.746+0000] {dagbag.py:537} INFO - Filling up the DagBag from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:25:16.059+0000] {processor.py:766} INFO - DAG(s) dict_keys(['extract_dag']) retrieved from /opt/airflow/dags/extract_dag.py
+[2022-12-04T01:25:16.081+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:25:16.081+0000] {dag.py:2585} INFO - Sync 1 DAGs
+[2022-12-04T01:25:16.094+0000] {logging_mixin.py:120} INFO - [2022-12-04T01:25:16.094+0000] {dag.py:3340} INFO - Setting next_dagrun for extract_dag to 2022-12-03T20:15:00+00:00, run_after=2022-12-04T20:15:00+00:00
+[2022-12-04T01:25:16.103+0000] {processor.py:176} INFO - Processing /opt/airflow/dags/extract_dag.py took 0.361 seconds
