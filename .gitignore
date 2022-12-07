@@ -1,2 +1,4 @@
 projects/weather-etl-ml-project/src/airflow/logs/*
 projects/weather-etl-ml-project/src/airflow/dags/data/01_raw/*
+projects/weather-etl-ml-project/src/airflow/config.yml
+ projects/weather-etl-ml-project/src/airflow/logs/dag_processor_manager/*

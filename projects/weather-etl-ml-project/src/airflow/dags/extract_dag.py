@@ -6,6 +6,9 @@ from pathlib import Path
 import requests
 import pandas as pd
 import logging
+import yaml
+with open('/opt/airflow/dags/config.yml') as f:
+    config = yaml.load(f, Loader=yaml.FullLoader)
 
 
 default_args = {
@@ -24,13 +27,13 @@ with DAG('extract_dag',
     
     @task
     def extract_func():
-        url = "https://weatherapi-com.p.rapidapi.com/current.json"
+        url = config['url']
 
         querystring = {"q":"Warsaw"}
 
         headers = {
-                "X-RapidAPI-Key": "24eeab2ba1mshe19cfdccdd89090p1e1cc3jsnf0935a53f711",
-                "X-RapidAPI-Host": "weatherapi-com.p.rapidapi.com"
+                "X-RapidAPI-Key": config['headers']['X-RapidAPI-Key'],
+                "X-RapidAPI-Host": config['headers']['X-RapidAPI-Host']
         }
 
         response = requests.request("GET", url, headers=headers, params=querystring)

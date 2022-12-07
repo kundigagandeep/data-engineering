@@ -1,0 +1,5 @@
+url: "https://weatherapi-com.p.rapidapi.com/current.json"
+
+headers:
+  X-RapidAPI-Key: "24eeab2ba1mshe19cfdccdd89090p1e1cc3jsnf0935a53f711"
+  X-RapidAPI-Host: "weatherapi-com.p.rapidapi.com"
