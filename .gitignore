@@ -2,3 +2,6 @@ data-engineering-projects/weather-etl-ml-project/src/airflow/logs/*
 data-engineering-projects/weather-etl-ml-project/src/airflow/dags/data/01_raw/*
 data-engineering-projects/weather-etl-ml-project/src/airflow/config.yml
 data-engineering-projects/weather-etl-ml-project/src/airflow/logs/dag_processor_manager/*
+data-engineering/data-engineering-projects/snowflake-aws-udemy/*
+.gitgnore
+data-engineering/AWSCLIV2.pkg
